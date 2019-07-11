@@ -6,7 +6,7 @@ const listItem = (props) => {
                                 width: '100%',
                                 marginBottom: 5,
                                 padding: 10,
-                                backgroundColor: props.isActive ?'blue' : '#eee'
+                                backgroundColor: props.isActive ?'#f7c6f7' : '#eee'
                             }}
                             onLongPress={props.move}
                             onPressOut={props.moveEnd}>
