@@ -1,0 +1,3 @@
+rootProject.name = 'nativecourse'
+
+include ':app'
